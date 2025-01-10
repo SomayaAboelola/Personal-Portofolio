@@ -1,0 +1,49 @@
+[
+    {
+        "name": "SQl Server",
+        "icon": "assets/images/skills/sqlI.png"
+    },
+    {
+        "name": "C#",
+        "icon": "assets/images/skills/icon.png"
+    },
+    {
+        "name": "LINQ",
+        "icon": "assets/images/skills/LQ.png"
+    },
+    {
+        "name": "Entity Framework Core",
+        "icon": "assets/images/skills/core.png"
+    },
+   
+
+    {
+        "name": "Asp.Net Core MVC",
+        "icon": "assets/images/skills/core.png"
+    },
+     
+    {
+        "name": "Asp.Net Core Web API",
+        "icon": "assets/images/skills/core.png"
+    },
+     
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+
+  
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+   
+]

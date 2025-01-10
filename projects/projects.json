@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Company",
+    "desc": "Developed MVC application using C# and ASP.NET Core MVC" ,
+    "image": "cp",
+    "category": "ASP.NET Core MVC",
+    "links": {
+      
+      "code": "https://github.com/SomayaAboelola/Company.Mvc.Solution.git"
+    }
+  },
+  {
+    "name": "GameZone",
+    "desc": "Created an interactive web platform for displaying and managing games using the ASP.NET MVC framework.",
+    "image": "game",
+    "category": "ASP.NET Core MVC",
+    "links": {
+     
+      "code": "https://github.com/SomayaAboelola/GameZone.git"
+    }
+  },
+  {
+    "name": "Restaurant-Menu",
+    "desc": "Developed a.NET Core MVC web application for restaurant menu management and user authentication.",
+    "image": "menu",
+    "category": "ASP.NET Core MVC",
+    "links": {
+      "code": "https://github.com/SomayaAboelola/Restaurant-Menu-Solution.git"
+    }
+  },
+  {
+    "name": "E-Commerce API",
+    "desc": "Built a secure & scalable e-commerce API with C#, Onion Architecture, and EF Core.",
+    "image": "ecomerc",
+    "category": "ASP.NET Core Web API",
+    "links": {
+      "code": "https://github.com/SomayaAboelola/Amazone.API.git"
+    }
+  }
+]
